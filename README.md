@@ -1,1 +1,1 @@
-# IEEE-CS-25-dina-Rookies
+# IEEE-CS-25
